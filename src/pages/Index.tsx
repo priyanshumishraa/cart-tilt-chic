@@ -113,9 +113,9 @@ const Index = () => {
       {/* Footer */}
       <footer className="text-center py-6 text-muted-foreground border-t border-border mt-12">
         <p className="flex items-center justify-center space-x-2">
-          <span>Made with</span>
-          <Heart className="w-4 h-4 text-red-500 fill-current" />
-          <span>for shopping lovers</span>
+          <span>Its Complicated!!</span>
+{/*           <Heart className="w-4 h-4 text-red-500 fill-current" />
+          <span>for shopping lovers</span> */}
         </p>
       </footer>
     </div>
